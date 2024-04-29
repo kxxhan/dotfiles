@@ -281,7 +281,7 @@
                         "product_id": 32774,
                         "vendor_id": 3141
                     },
-                    "ignore": false,
+                    "ignore": true,
                     "manipulate_caps_lock_led": true,
                     "mouse_flip_horizontal_wheel": false,
                     "mouse_flip_vertical_wheel": false,
