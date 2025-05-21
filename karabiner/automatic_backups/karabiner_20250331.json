@@ -5,7 +5,6 @@
                 "rules": [
                     {
                         "description": "Custom Rule (change Left Control + Tab to Caps Lock)",
-                        "enabled": false,
                         "manipulators": [
                             {
                                 "from": {
